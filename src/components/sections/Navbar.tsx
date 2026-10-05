@@ -40,7 +40,7 @@ export default function Navbar() {
           className="flex items-center gap-2.5 transition-all hover:opacity-80 shrink-0"
         >
           <Image
-            src="/logo.png"
+            src="/logo.webp"
             alt="RAMAH Tour Logo"
             width={140}
             height={36}

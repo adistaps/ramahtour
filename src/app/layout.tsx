@@ -82,8 +82,8 @@ export const metadata: Metadata = {
     canonical: siteUrl,
   },
   icons: {
-    icon: '/icon.png',
-    apple: '/icon.png',
+    icon: '/icon.webp',
+    apple: '/icon.webp',
   },
   other: {
     'geo.region': 'ID-NB',
